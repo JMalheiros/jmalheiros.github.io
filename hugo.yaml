@@ -1,0 +1,8 @@
+baseURL: https://example.org/
+languageCode: pt-br
+title: J.M. Station
+theme: ["PaperMod"]
+
+params:
+  author:
+    name: João Malheiros
