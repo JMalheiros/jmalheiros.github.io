@@ -6,3 +6,7 @@ theme: ["PaperMod"]
 params:
   author:
     name: João Malheiros
+
+caches:
+  images:
+    dir: :cacheDir/images
