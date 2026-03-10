@@ -2,6 +2,7 @@
 title: "Kupo! - O que você vai encontrar aqui"
 date: 2026-03-10T23:27:40Z
 categories: ["Sobre"]
+author: "João Malheiros"
 draft: false
 ---
 
