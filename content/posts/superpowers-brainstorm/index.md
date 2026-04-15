@@ -27,9 +27,9 @@ E é game-changing.
 
 As LLMs produzem código de qualidade. Isso já é um fato em 2026, e nosso trabalho hoje consiste mais em direcionar o desenvolvimento e revisar as alterações. Entretanto, a abordagem de planejamento de desenvolvimento delas assemelha-se à de um desenvolvedor inexperiente: poucas perguntas sobre implementação/estrutura e foco na entrega de um plano que conseguem executar.
 
-![WhatsApp Image 2026-03-02 at 15.50.19.jpeg](WhatsApp Image 2026-03-02 at 15.50.19.jpeg)
+![Claude Code apresentando um plano direto](brainstorm-01.jpeg)
 
-![WhatsApp Image 2026-03-02 at 15.58.13.jpeg](WhatsApp Image 2026-03-02 at 15.58.13.jpeg)
+![Plano sendo executado pelo agente](brainstorm-02.jpeg)
 
 Isso funciona quando há uma funcionalidade bem definida, e as alterações e melhorias dependem, em grande parte, da minha capacidade de direcionar o agente. Ele questiona pouco e foca na entrega.
 
@@ -37,13 +37,13 @@ Isso muda completamente quando se tem apenas uma ideia geral do que se deseja fa
 
 LLMs não são determinísticas, então, às vezes, o agente faz algumas perguntas quando recebe um prompt abrangente. Todavia, são poucas, e o processo não é consistente.
 
-![WhatsApp Image 2026-03-02 at 16.02.59.jpeg](WhatsApp Image 2026-03-02 at 16.02.59.jpeg)
+![Prompt abrangente recebendo resposta direta](brainstorm-03.jpeg)
 
-![WhatsApp Image 2026-03-02 at 16.03.46.jpeg](WhatsApp Image 2026-03-02 at 16.03.46.jpeg)
+![Agente tentando resolver sem mais contexto](brainstorm-04.jpeg)
 
-![WhatsApp Image 2026-03-02 at 16.04.19.jpeg](WhatsApp Image 2026-03-02 at 16.04.19.jpeg)
+![Claude respondendo sem questionar detalhes](brainstorm-05.jpeg)
 
-![WhatsApp Image 2026-03-02 at 16.17.19.jpeg](WhatsApp Image 2026-03-02 at 16.17.19.jpeg)
+![Execução direta a partir de prompt incompleto](brainstorm-06.jpeg)
 
 O Brainstorming muda completamente essa experiência: o Claude começa a pensar junto comigo como melhorar o projeto.
 
@@ -59,27 +59,27 @@ O fluxo consiste em 6 passos:
 - Escrever a documentação de design
 - Transicionar para o plano de implementação
 
-![WhatsApp Image 2026-03-02 at 16.27.22.jpeg](WhatsApp Image 2026-03-02 at 16.27.22.jpeg)
+![Brainstorming explorando o contexto existente do projeto](brainstorm-07.jpeg)
 
 Após entender o contexto existente, ele inicia uma rodada de perguntas sobre o que se deseja implementar, com opções pré-geradas e a possibilidade de discutir cada pergunta.
 
-![WhatsApp Image 2026-03-02 at 16.30.24.jpeg](WhatsApp Image 2026-03-02 at 16.30.24.jpeg)
+![Perguntas do brainstorming com opções pré-geradas](brainstorm-08.jpeg)
 
 Após essas perguntas, ele resume o que entendeu da nova feature, com as especificações definidas durante a sessão.
 
-![WhatsApp Image 2026-03-02 at 16.33.22.jpeg](WhatsApp Image 2026-03-02 at 16.33.22.jpeg)
+![Resumo da feature com as especificações definidas](brainstorm-09.jpeg)
 
 Ele fornece 2 a 3 opções de implementação, recomendando uma:
 
-![WhatsApp Image 2026-03-02 at 16.33.32.jpeg](WhatsApp Image 2026-03-02 at 16.33.32.jpeg)
+![Opções de implementação com uma recomendada](brainstorm-10.jpeg)
 
 Por fim, ele revisa o plano de implementação da opção escolhida, passo a passo, e solicita confirmações. Também exibe o planejamento de tarefas,
 
-![WhatsApp Image 2026-03-02 at 16.34.07.jpeg](WhatsApp Image 2026-03-02 at 16.34.07.jpeg)
+![Plano de implementação passo a passo](brainstorm-11.jpeg)
 
 e valida aquele passo, com abertura para alterações.
 
-![WhatsApp Image 2026-03-02 at 16.34.20.jpeg](WhatsApp Image 2026-03-02 at 16.34.20.jpeg)
+![Validação do passo com abertura para alterações](brainstorm-12.jpeg)
 
 Tudo isso para, finalmente, gerar o documento de design daquela sessão de brainstorming e prosseguir para a elaboração do documento de implementação.
 
